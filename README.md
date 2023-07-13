@@ -1,6 +1,9 @@
 JavaScript Quiz
 A simple interactive JavaScript quiz application with a vaporwave style.
 
+Demo
+https://dunadunn.github.io/Quiz-for-Javascript/
+
 Features
 Multiple-choice questions.
 Timer for answering questions.
